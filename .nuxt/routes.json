@@ -1,0 +1,44 @@
+[
+  {
+    "name": "layout",
+    "path": "/",
+    "component": "D:\\\\work\\\\lagou\\\\03-03-study-materials\\\\task\\\\realworld-nuxtjs\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "D:\\\\work\\\\lagou\\\\03-03-study-materials\\\\task\\\\realworld-nuxtjs\\\\pages\\\\home"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "D:\\\\work\\\\lagou\\\\03-03-study-materials\\\\task\\\\realworld-nuxtjs\\\\pages\\\\login"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "D:\\\\work\\\\lagou\\\\03-03-study-materials\\\\task\\\\realworld-nuxtjs\\\\pages\\\\login"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "D:\\\\work\\\\lagou\\\\03-03-study-materials\\\\task\\\\realworld-nuxtjs\\\\pages\\\\profile"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "D:\\\\work\\\\lagou\\\\03-03-study-materials\\\\task\\\\realworld-nuxtjs\\\\pages\\\\settings"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "D:\\\\work\\\\lagou\\\\03-03-study-materials\\\\task\\\\realworld-nuxtjs\\\\pages\\\\editor"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "D:\\\\work\\\\lagou\\\\03-03-study-materials\\\\task\\\\realworld-nuxtjs\\\\pages\\\\article"
+      }
+    ]
+  }
+]
