@@ -125,9 +125,6 @@
 import {getArticles} from '@/api/article'
 export default {
   name: 'ArticleIndex',
-  async asyncData() {
-    const {data} = await getArticles();
-    console.log(data)
-  }
+ 
 }
 </script>
