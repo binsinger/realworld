@@ -35,7 +35,7 @@
               <!-- <a href="" class="author">Eric Simons</a> -->
               <span class="date">{{ article.createdAt }}</span>
             </div>
-            <button class="btn btn-outline-primary btn-sm pull-xs-right" :class="{ active: aricle.favorited}">
+            <button class="btn btn-outline-primary btn-sm pull-xs-right" :class="{ active: article.favorited}">
               <i class="ion-heart"></i> {{article.favoritesCount}}
             </button>
           </div>
