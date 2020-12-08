@@ -95,7 +95,7 @@ export default {
   name: 'HomePage',
   async asyncData({query}) {
     const page = +query.page || 1;
-    const limt = 20
+    const limit = 20
     const {data} = await getArticles({
       limit,
       offset: (page-1) * limit

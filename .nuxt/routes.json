@@ -1,44 +1,51 @@
 [
   {
-    "name": "layout",
     "path": "/",
     "component": "D:\\\\work\\\\lagou\\\\03-03-study-materials\\\\task\\\\realworld-nuxtjs\\\\pages\\\\layout",
     "children": [
       {
         "path": "",
         "name": "home",
-        "component": "D:\\\\work\\\\lagou\\\\03-03-study-materials\\\\task\\\\realworld-nuxtjs\\\\pages\\\\home"
+        "component": "D:\\\\work\\\\lagou\\\\03-03-study-materials\\\\task\\\\realworld-nuxtjs\\\\pages\\\\home",
+        "_name": "_95184268"
       },
       {
         "path": "/login",
         "name": "login",
-        "component": "D:\\\\work\\\\lagou\\\\03-03-study-materials\\\\task\\\\realworld-nuxtjs\\\\pages\\\\login"
+        "component": "D:\\\\work\\\\lagou\\\\03-03-study-materials\\\\task\\\\realworld-nuxtjs\\\\pages\\\\login",
+        "_name": "_0d7f79c8"
       },
       {
         "path": "/register",
         "name": "register",
-        "component": "D:\\\\work\\\\lagou\\\\03-03-study-materials\\\\task\\\\realworld-nuxtjs\\\\pages\\\\login"
+        "component": "D:\\\\work\\\\lagou\\\\03-03-study-materials\\\\task\\\\realworld-nuxtjs\\\\pages\\\\login",
+        "_name": "_0d7f79c8"
       },
       {
         "path": "/profile/:username",
         "name": "profile",
-        "component": "D:\\\\work\\\\lagou\\\\03-03-study-materials\\\\task\\\\realworld-nuxtjs\\\\pages\\\\profile"
+        "component": "D:\\\\work\\\\lagou\\\\03-03-study-materials\\\\task\\\\realworld-nuxtjs\\\\pages\\\\profile",
+        "_name": "_f93a86c8"
       },
       {
         "path": "/settings",
         "name": "settings",
-        "component": "D:\\\\work\\\\lagou\\\\03-03-study-materials\\\\task\\\\realworld-nuxtjs\\\\pages\\\\settings"
+        "component": "D:\\\\work\\\\lagou\\\\03-03-study-materials\\\\task\\\\realworld-nuxtjs\\\\pages\\\\settings",
+        "_name": "_7a34e790"
       },
       {
         "path": "/editor",
         "name": "editor",
-        "component": "D:\\\\work\\\\lagou\\\\03-03-study-materials\\\\task\\\\realworld-nuxtjs\\\\pages\\\\editor"
+        "component": "D:\\\\work\\\\lagou\\\\03-03-study-materials\\\\task\\\\realworld-nuxtjs\\\\pages\\\\editor",
+        "_name": "_223c441a"
       },
       {
         "path": "/article/:slug",
         "name": "article",
-        "component": "D:\\\\work\\\\lagou\\\\03-03-study-materials\\\\task\\\\realworld-nuxtjs\\\\pages\\\\article"
+        "component": "D:\\\\work\\\\lagou\\\\03-03-study-materials\\\\task\\\\realworld-nuxtjs\\\\pages\\\\article",
+        "_name": "_6a2cffe9"
       }
-    ]
+    ],
+    "_name": "_2e0b1dd7"
   }
 ]
