@@ -30,3 +30,17 @@ export const deleteFavorite = slug => {
     
   })
 }
+
+export const getArticle = slug => {
+    return request({
+        method: 'get',
+        url: `/api/articles/${slug}`
+    })
+}
+
+export const getComments = slug => {
+    return request({
+        method: 'get',
+        url: `/api/articles/${slug}/comments`
+    })
+}

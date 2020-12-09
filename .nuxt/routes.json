@@ -1,51 +1,43 @@
 [
   {
     "path": "/",
-    "component": "D:\\\\work\\\\lagou\\\\03-03-study-materials\\\\task\\\\realworld-nuxtjs\\\\pages\\\\layout",
+    "component": "/Users/wangxiaobin/Documents/code/lagou/03-03-study-materials/fed-e-task-03-03/pages/layout",
     "children": [
       {
         "path": "",
         "name": "home",
-        "component": "D:\\\\work\\\\lagou\\\\03-03-study-materials\\\\task\\\\realworld-nuxtjs\\\\pages\\\\home",
-        "_name": "_95184268"
+        "component": "/Users/wangxiaobin/Documents/code/lagou/03-03-study-materials/fed-e-task-03-03/pages/home"
       },
       {
         "path": "/login",
         "name": "login",
-        "component": "D:\\\\work\\\\lagou\\\\03-03-study-materials\\\\task\\\\realworld-nuxtjs\\\\pages\\\\login",
-        "_name": "_0d7f79c8"
+        "component": "/Users/wangxiaobin/Documents/code/lagou/03-03-study-materials/fed-e-task-03-03/pages/login"
       },
       {
         "path": "/register",
         "name": "register",
-        "component": "D:\\\\work\\\\lagou\\\\03-03-study-materials\\\\task\\\\realworld-nuxtjs\\\\pages\\\\login",
-        "_name": "_0d7f79c8"
+        "component": "/Users/wangxiaobin/Documents/code/lagou/03-03-study-materials/fed-e-task-03-03/pages/login"
       },
       {
         "path": "/profile/:username",
         "name": "profile",
-        "component": "D:\\\\work\\\\lagou\\\\03-03-study-materials\\\\task\\\\realworld-nuxtjs\\\\pages\\\\profile",
-        "_name": "_f93a86c8"
+        "component": "/Users/wangxiaobin/Documents/code/lagou/03-03-study-materials/fed-e-task-03-03/pages/profile"
       },
       {
         "path": "/settings",
         "name": "settings",
-        "component": "D:\\\\work\\\\lagou\\\\03-03-study-materials\\\\task\\\\realworld-nuxtjs\\\\pages\\\\settings",
-        "_name": "_7a34e790"
+        "component": "/Users/wangxiaobin/Documents/code/lagou/03-03-study-materials/fed-e-task-03-03/pages/settings"
       },
       {
         "path": "/editor",
         "name": "editor",
-        "component": "D:\\\\work\\\\lagou\\\\03-03-study-materials\\\\task\\\\realworld-nuxtjs\\\\pages\\\\editor",
-        "_name": "_223c441a"
+        "component": "/Users/wangxiaobin/Documents/code/lagou/03-03-study-materials/fed-e-task-03-03/pages/editor"
       },
       {
         "path": "/article/:slug",
         "name": "article",
-        "component": "D:\\\\work\\\\lagou\\\\03-03-study-materials\\\\task\\\\realworld-nuxtjs\\\\pages\\\\article",
-        "_name": "_6a2cffe9"
+        "component": "/Users/wangxiaobin/Documents/code/lagou/03-03-study-materials/fed-e-task-03-03/pages/article"
       }
-    ],
-    "_name": "_2e0b1dd7"
+    ]
   }
 ]
