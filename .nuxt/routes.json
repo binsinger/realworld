@@ -6,38 +6,46 @@
       {
         "path": "",
         "name": "home",
-        "component": "/Users/wangxiaobin/Documents/code/lagou/03-03-study-materials/fed-e-task-03-03/pages/home"
+        "component": "/Users/wangxiaobin/Documents/code/lagou/03-03-study-materials/fed-e-task-03-03/pages/home",
+        "_name": "_100bf405"
       },
       {
         "path": "/login",
         "name": "login",
-        "component": "/Users/wangxiaobin/Documents/code/lagou/03-03-study-materials/fed-e-task-03-03/pages/login"
+        "component": "/Users/wangxiaobin/Documents/code/lagou/03-03-study-materials/fed-e-task-03-03/pages/login",
+        "_name": "_1caa55fa"
       },
       {
         "path": "/register",
         "name": "register",
-        "component": "/Users/wangxiaobin/Documents/code/lagou/03-03-study-materials/fed-e-task-03-03/pages/login"
+        "component": "/Users/wangxiaobin/Documents/code/lagou/03-03-study-materials/fed-e-task-03-03/pages/login",
+        "_name": "_1caa55fa"
       },
       {
         "path": "/profile/:username",
         "name": "profile",
-        "component": "/Users/wangxiaobin/Documents/code/lagou/03-03-study-materials/fed-e-task-03-03/pages/profile"
+        "component": "/Users/wangxiaobin/Documents/code/lagou/03-03-study-materials/fed-e-task-03-03/pages/profile",
+        "_name": "_0b7070c3"
       },
       {
         "path": "/settings",
         "name": "settings",
-        "component": "/Users/wangxiaobin/Documents/code/lagou/03-03-study-materials/fed-e-task-03-03/pages/settings"
+        "component": "/Users/wangxiaobin/Documents/code/lagou/03-03-study-materials/fed-e-task-03-03/pages/settings",
+        "_name": "_18448f6e"
       },
       {
         "path": "/editor",
         "name": "editor",
-        "component": "/Users/wangxiaobin/Documents/code/lagou/03-03-study-materials/fed-e-task-03-03/pages/editor"
+        "component": "/Users/wangxiaobin/Documents/code/lagou/03-03-study-materials/fed-e-task-03-03/pages/editor",
+        "_name": "_3723ef13"
       },
       {
         "path": "/article/:slug",
         "name": "article",
-        "component": "/Users/wangxiaobin/Documents/code/lagou/03-03-study-materials/fed-e-task-03-03/pages/article"
+        "component": "/Users/wangxiaobin/Documents/code/lagou/03-03-study-materials/fed-e-task-03-03/pages/article",
+        "_name": "_1b8a97e0"
       }
-    ]
+    ],
+    "_name": "_42f2c8d0"
   }
 ]
